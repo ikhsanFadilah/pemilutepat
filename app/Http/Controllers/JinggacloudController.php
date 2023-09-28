@@ -26,7 +26,7 @@ class JinggacloudController extends Controller
                         'id'
                       )
                       ->where('status', 1)
-                      ->orderBy('title', 'ASC')
+                      ->orderBy('id', 'ASC')
                       ->get();
 
       return view('welcome', compact('products'));

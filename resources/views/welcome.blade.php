@@ -9,24 +9,24 @@
   <meta name="dcterms.subject" content="jasa pembuatan website,jasa pembuatan web,web design, web designer,web desain,web desainer,jasa desain web">
   <meta name="dcterms.type" content="Service">
   <meta name="dcterms.language" content="id">
-  <link rel="canonical" href="https://www.jinggacloud.com">
+  <link rel="canonical" href="https://www.wibowo.id">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Jasa Pembuatan Website Kilat">
   <meta property="og:description" content="Jasa pembuatan website kilat untuk perusahaan, sekolah, organisasi, dll">
-  <meta property="og:url" content="https://www.jinggacloud.com">
+  <meta property="og:url" content="https://www.wibowo.id">
   <meta property="og:site_name" content="Rumahweb">
-  <meta property="og:image" content="https://www.jinggacloud.com/jc.ico">
+  <meta property="og:image" content="https://www.wibowo.id/jc.ico">
   <meta property="og:locale" content="id_ID">
   <meta property="fb:app_id" content="231307203869836">
   <meta name="dcterms.type" content="Service">
   <meta name="dcterms.language" content="id">
-  <link rel="shortcut icon" href="https://www.jinggacloud.com/jc.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="https://www.jinggacloud.com/jc.ico"> <link rel="”publisher”" href="”https://plus.google.com/+jinggacloud”/">
-  <meta name="generator" content="Jinggacloud V.2.0.3">
-  <meta name="copyright" content="Jinggacloud">
+  <link rel="shortcut icon" href="https://www.wibowo.id/jc.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://www.wibowo.id/jc.ico"> <link rel="”publisher”" href="”https://plus.google.com/+Wibowo.id”/">
+  <meta name="generator" content="Wibowo.id V.2.0.3">
+  <meta name="copyright" content="Wibowo.id">
   <meta name="robots" content="index,follow,noodp,noydir">
-  <meta name="author" content="Jinggacloud">
-  <link rel="alternate" type="application/rss+xml" title="Jinggacloud jasa pembuatan website » Feed" href="https://www.jinggacloud.com/page/feed">
+  <meta name="author" content="Wibowo.id">
+  <link rel="alternate" type="application/rss+xml" title="Wibowo.id jasa pembuatan website » Feed" href="https://www.wibowo.id/page/feed">
   <title>{{ config('app.name') }} - Landing Page</title>
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
@@ -39,7 +39,7 @@
 <div class="navbar-wrapper">
         <nav class="navbar navbar-default navbar-fixed-top navbar-expand-md" role="navigation">
             <div class="container">
-                <a class="navbar-brand" href="index.html">{{ config('app.name') }}</a>
+                <a class="navbar-brand" href="{{ url('/') }}">{{ config('app.name') }}</a>
                 <div class="navbar-header page-scroll">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
                         <i class="fa fa-bars"></i>
@@ -109,7 +109,7 @@
   <div class="row">
       <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>Mengapa Jinggacloud ?</h1>
+          <h1>Mengapa Wibowo.id ?</h1>
           <p>Lebih dari 100+ fitur, sudah menggunakan desain responsif dan Laravel PHP Framework.</p>
       </div>
   </div>
@@ -139,7 +139,7 @@
           <div>
               <i class="fa fa-tasks features-icon"></i>
               <h2>Quality Control</h2>
-              <p>Semua produk sudah melewati proses quality control yang ketat, jinggacloud telah melakukan runing test terlebih dahulu sebelum didistribusikan ke konsumen.</p>
+              <p>Semua produk sudah melewati proses quality control yang ketat, Wibowo.id telah melakukan runing test terlebih dahulu sebelum didistribusikan ke konsumen.</p>
           </div>
       </div>
   </div>
@@ -155,7 +155,7 @@
           <div>
               <i class="fa fa-cogs features-icon"></i>
               <h2>Versi Kustom</h2>
-              <p>Jinggacloud juga melayani proyek kustom, seperti kombinasi antara HRM + e-Commerce.</p>
+              <p>Wibowo.id juga melayani proyek kustom, seperti kombinasi antara HRM + e-Commerce.</p>
           </div>
       </div>
       <div class="col-md-3 text-center wow fadeInRight">
@@ -185,7 +185,7 @@
                     Apa kata pengguna kami
                 </h1>
                 <div class="testimonials-text">
-                    <i>"web programmer yang disarankan, sesuai dengan permintaan dan kebutuhan yang saya harapkan, saya percaya jika menggunakan aplikasi buatan jinggacloud sangat ringan, performa website akan lebih maksimal dan terjamin keamanannya. Saya telah menggunakan produk HRM dari jinggacloud, kinerjanya sangat ringan meski spesifikasi gadget rendah. Terima kasih Jinggacloud"</i>
+                    <i>"web programmer yang disarankan, sesuai dengan permintaan dan kebutuhan yang saya harapkan, saya percaya jika menggunakan aplikasi buatan Wibowo.id sangat ringan, performa website akan lebih maksimal dan terjamin keamanannya. Saya telah menggunakan produk HRM dari Wibowo.id, kinerjanya sangat ringan meski spesifikasi gadget rendah. Terima kasih Wibowo.id"</i>
                 </div>
                 <small>
                     <strong>15 Oktober 2017 - Irvan Samuel</strong>
@@ -201,7 +201,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
-                <h1>Apa kata mitra jinggacloud ?</h1>
+                <h1>Apa kata mitra Wibowo.id ?</h1>
                 <p>Berikut adalah tiga ucapan terbaik berdasarkan komentar langsung dari mitra.</p>
             </div>
         </div>
@@ -269,8 +269,8 @@
         <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
-                <h1>Harga Aplikasi</h1>
-                <p>Jinggacloud memiliki 12 kategori aplikasi berbasis website, seperti yang berikut :</p>
+                <h1>Harga</h1>
+                <p>Wibowo.id memiliki 12 kategori aplikasi berbasis website & mobile</p>
             </div>
         </div>
         <div class="row" style="margin-bottom:20px">
@@ -316,7 +316,7 @@
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
                 <h1>Kontak</h1>
-                <p>Butuh bantuan dan informasi tentang jinggacloud ? Kontak saja</p>
+                <p>Butuh bantuan dan informasi tentang Wibowo.id ? Kontak saja</p>
             </div>
         </div>
         <div class="row m-b-lg justify-content-center">
@@ -324,14 +324,14 @@
               <address>
                   <strong><span class="navy">{{ config('app.name') }}</span></strong><br/>
                   Chandra Wibowo<br/>
-                  Halimun Residence C4 66<br/>
+                  Halimun Foresta C4 66<br/>
                   Katapang - Soreang, Bandung<br/>
-                  <abbr title="Phone">P:</abbr> (+62) 889-283-0970
+                  <abbr title="Phone">P:</abbr> (+62) 8132-3000-696
               </address>
             </div>
             <div class="col-lg-4">
                 <p class="text-color">
-                    Dapatkan informasi terbaru dari jinggacloud kapanpun dan dimanapun, banyak cara untuk lebih dekat dengan jinggacloud menggunakan kontak atau mengikuti media sosial jinggacloud.
+                    Dapatkan informasi terbaru dari Wibowo.id kapanpun dan dimanapun, banyak cara untuk lebih dekat dengan Wibowo.id menggunakan kontak atau mengikuti media sosial Wibowo.id.
                 </p>
             </div>
         </div>
@@ -339,7 +339,7 @@
             <div class="col-lg-12 text-center">
                 <a href="mailto:chandra@wibowo.id" class="btn btn-primary">Kirim Pesan</a>
                 <p class="m-t-sm">
-                    Ikuti jinggacloud
+                    Ikuti Wibowo.id
                 </p>
                 <ul class="list-inline social-icon">
                     <li class="list-inline-item"><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
@@ -353,7 +353,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 text-center m-t-lg m-b-lg">
-                <p><strong>{{ date('Y') }} &copy; by {{ config('app.name') }}</strong></p>
+                <p><strong>2017 - {{ date('Y') }} &copy; by {{ config('app.name') }}</strong></p>
             </div>
         </div>
     </div>
@@ -371,7 +371,7 @@
 <script src="{{ asset('js/plugins/slimscroll/jquery.slimscroll.min.js') }}"></script>
 
 <!-- Custom and plugin javascript -->
-<script src="{{ asset('js/inspinia.js') }}"></script>
+<script src="{{ asset('js/wibowo.js') }}"></script>
 <script src="{{ asset('js/plugins/pace/pace.min.js') }}"></script>
 <script src="{{ asset('js/plugins/wow/wow.min.js') }}"></script>
 
