@@ -9,24 +9,24 @@
   <meta name="dcterms.subject" content="jasa pembuatan website,jasa pembuatan web,web design, web designer,web desain,web desainer,jasa desain web">
   <meta name="dcterms.type" content="Service">
   <meta name="dcterms.language" content="id">
-  <link rel="canonical" href="https://www.wibowo.id">
+  <link rel="canonical" href="https://www.Nashsemesta">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Jasa Pembuatan Website Kilat">
   <meta property="og:description" content="Jasa pembuatan website kilat untuk perusahaan, sekolah, organisasi, dll">
-  <meta property="og:url" content="https://www.wibowo.id">
+  <meta property="og:url" content="https://www.Nashsemesta">
   <meta property="og:site_name" content="Rumahweb">
-  <meta property="og:image" content="https://www.wibowo.id/jc.ico">
+  <meta property="og:image" content="https://www.Nashsemesta/jc.ico">
   <meta property="og:locale" content="id_ID">
   <meta property="fb:app_id" content="231307203869836">
   <meta name="dcterms.type" content="Service">
   <meta name="dcterms.language" content="id">
-  <link rel="shortcut icon" href="https://www.wibowo.id/jc.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="https://www.wibowo.id/jc.ico"> <link rel="”publisher”" href="”https://plus.google.com/+Wibowo.id”/">
-  <meta name="generator" content="Wibowo.id V.2.0.3">
-  <meta name="copyright" content="Wibowo.id">
+  <link rel="shortcut icon" href="https://www.Nashsemesta/jc.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://www.Nashsemesta/jc.ico"> <link rel="”publisher”" href="”https://plus.google.com/+Nashsemesta”/">
+  <meta name="generator" content="Nashsemesta V.2.0.3">
+  <meta name="copyright" content="Nashsemesta">
   <meta name="robots" content="index,follow,noodp,noydir">
-  <meta name="author" content="Wibowo.id">
-  <link rel="alternate" type="application/rss+xml" title="Wibowo.id jasa pembuatan website » Feed" href="https://www.wibowo.id/page/feed">
+  <meta name="author" content="Nashsemesta">
+  <link rel="alternate" type="application/rss+xml" title="Nashsemesta jasa pembuatan website » Feed" href="https://www.Nashsemesta/page/feed">
   <title>{{ config('app.name') }} - Landing Page</title>
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
@@ -109,8 +109,8 @@
   <div class="row">
       <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>Mengapa Wibowo.id ?</h1>
-          <p>Lebih dari 100+ fitur, sudah menggunakan desain responsif dan Laravel PHP Framework.</p>
+          <h1>Mengapa Nashsemesta ?</h1>
+          <p>Lebih dari 100+ fitur, dengan teknologi bahasa pemrograman Go, Vue, Express, PHP Laravel & Flutter</p>
       </div>
   </div>
   <div class="row">
@@ -139,7 +139,7 @@
           <div>
               <i class="fa fa-tasks features-icon"></i>
               <h2>Quality Control</h2>
-              <p>Semua produk sudah melewati proses quality control yang ketat, Wibowo.id telah melakukan runing test terlebih dahulu sebelum didistribusikan ke konsumen.</p>
+              <p>Semua produk sudah melewati proses quality control yang ketat, Nashsemesta telah melakukan runing test terlebih dahulu sebelum didistribusikan ke konsumen.</p>
           </div>
       </div>
   </div>
@@ -147,7 +147,7 @@
       <div class="col-md-3 text-center wow fadeInRight">
           <div>
               <i class="fa fa-tags features-icon"></i>
-              <h2>12 Kategori Website</h2>
+              <h2>12 Macam Website</h2>
               <p>Company Profile, Catalogue, e-Commerce, e-Learning, HRM, Apotek, Retail &amp; POS, &amp; Hotel.</p>
           </div>
       </div>
@@ -155,7 +155,7 @@
           <div>
               <i class="fa fa-cogs features-icon"></i>
               <h2>Versi Kustom</h2>
-              <p>Wibowo.id juga melayani proyek kustom, seperti kombinasi antara HRM + e-Commerce.</p>
+              <p>Nashsemesta juga melayani proyek kustom, seperti kombinasi antara HRM + e-Commerce.</p>
           </div>
       </div>
       <div class="col-md-3 text-center wow fadeInRight">
@@ -185,7 +185,7 @@
                     Apa kata pengguna kami
                 </h1>
                 <div class="testimonials-text">
-                    <i>"web programmer yang disarankan, sesuai dengan permintaan dan kebutuhan yang saya harapkan, saya percaya jika menggunakan aplikasi buatan Wibowo.id sangat ringan, performa website akan lebih maksimal dan terjamin keamanannya. Saya telah menggunakan produk HRM dari Wibowo.id, kinerjanya sangat ringan meski spesifikasi gadget rendah. Terima kasih Wibowo.id"</i>
+                    <i>"web programmer yang disarankan, sesuai dengan permintaan dan kebutuhan yang saya harapkan, saya percaya jika menggunakan aplikasi buatan Nashsemesta sangat ringan, performa website akan lebih maksimal dan terjamin keamanannya. Saya telah menggunakan produk HRM dari Nashsemesta, kinerjanya sangat ringan meski spesifikasi gadget rendah. Terima kasih Nashsemesta"</i>
                 </div>
                 <small>
                     <strong>15 Oktober 2017 - Irvan Samuel</strong>
@@ -201,7 +201,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
-                <h1>Apa kata mitra Wibowo.id ?</h1>
+                <h1>Apa kata mitra Nashsemesta ?</h1>
                 <p>Berikut adalah tiga ucapan terbaik berdasarkan komentar langsung dari mitra.</p>
             </div>
         </div>
@@ -269,8 +269,8 @@
         <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
-                <h1>Harga</h1>
-                <p>Wibowo.id memiliki 12 kategori aplikasi berbasis website & mobile</p>
+                <h1>Produk</h1>
+                <p>Nashsemesta memiliki 12 macam aplikasi berbasis website & mobile</p>
             </div>
         </div>
         <div class="row" style="margin-bottom:20px">
@@ -291,9 +291,9 @@
                     <li class="pricing-desc">
                         {{ $product->description }}
                     </li>
-                    <li class="pricing-price">
+                    <!-- <li class="pricing-price">
                         <span>{{ $price }} / {{ $product->unit }}</span>
-                    </li>
+                    </li> -->
                     <li>
                         <button class="btn btn-primary readmore" data-id="{{ $product->slug }}">Read More</button>
                     </li>
@@ -316,30 +316,30 @@
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
                 <h1>Kontak</h1>
-                <p>Butuh bantuan dan informasi tentang Wibowo.id ? Kontak saja</p>
+                <p>Butuh bantuan dan informasi tentang Nashsemesta ? Kontak saja</p>
             </div>
         </div>
         <div class="row m-b-lg justify-content-center">
             <div class="col-lg-3 ">
               <address>
                   <strong><span class="navy">{{ config('app.name') }}</span></strong><br/>
-                  Chandra Wibowo<br/>
-                  Halimun Foresta C4 66<br/>
-                  Katapang - Soreang, Bandung<br/>
-                  <abbr title="Phone">P:</abbr> (+62) 8132-3000-696
+                  PT Nash Interaksi Semesta<br/>
+                  Summarecon, Dayana Blok DC No.67<br/>
+                  Gedebage, Bandung<br/>
+                  <abbr title="Phone">P:</abbr> (+62) 8131-1414-2025
               </address>
             </div>
             <div class="col-lg-4">
                 <p class="text-color">
-                    Dapatkan informasi terbaru dari Wibowo.id kapanpun dan dimanapun, banyak cara untuk lebih dekat dengan Wibowo.id menggunakan kontak atau mengikuti media sosial Wibowo.id.
+                    Dapatkan informasi terbaru dari Nashsemesta kapanpun dan dimanapun, banyak cara untuk lebih dekat dengan Nashsemesta menggunakan kontak atau mengikuti media sosial Nashsemesta.
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12 text-center">
-                <a href="mailto:chandra@wibowo.id" class="btn btn-primary">Kirim Pesan</a>
+                <a href="mailto:chandra@Nashsemesta" class="btn btn-primary">Kirim Pesan</a>
                 <p class="m-t-sm">
-                    Ikuti Wibowo.id
+                    Ikuti Nashsemesta
                 </p>
                 <ul class="list-inline social-icon">
                     <li class="list-inline-item"><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
@@ -353,7 +353,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 text-center m-t-lg m-b-lg">
-                <p><strong>2017 - {{ date('Y') }} &copy; by {{ config('app.name') }}</strong></p>
+                <p><strong>2022 - {{ date('Y') }} &copy; by {{ config('app.name') }}</strong></p>
             </div>
         </div>
     </div>

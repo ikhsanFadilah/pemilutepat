@@ -37,23 +37,24 @@ class JinggacloudController extends Controller
     	$product = Product::WHERE('slug',$id)->first();
     	if($product->priceup > 0){
     		$price = 'Mulai dari Rp '.number_format($product->price,0,',','.');
-    	}else{
+    	} else {
     		$price = 'Rp '.number_format($product->price,0,',','.');
     	}
-    	echo'<div class="modal-dialog modal-lg">
-                                <div class="modal-content animated flipInY">
-                                        <div class="modal-header">
-                                            <h4 class="modal-title">'.$product->title.'</h4>
-                                        </div>
-                                        <div class="modal-body">'.$product->fitur.'<p class="text-center alert alert-info"><strong>Only '.$price.' / '.$product->unit.'</strong></p>
-                                        </div>
-                                        <div class="modal-footer">
-                                            <button type="button" class="btn btn-white" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                                            <a href="'.$product->url.'" target="_blank" class="btn btn-info"><i class="fa fa-search"></i> Demo</a>
-                                            <button type="button" class="btn btn-primary order" data-id="'.$product->slug.'"><i class="fa fa-shopping-cart"></i> Order Now</button>
-                                        </div>
-                                    </div>
-                                </div>';
+
+        echo'<div class="modal-dialog modal-lg">
+        <div class="modal-content animated flipInY">
+                <div class="modal-header">
+                    <h4 class="modal-title">'.$product->title.'</h4>
+                </div>
+                <div class="modal-body">'.$product->fitur.'<!--<p class="text-center alert alert-info"><strong>'.$price.' / '.$product->unit.'</strong></p>-->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-white" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    <a href="'.$product->url.'" target="_blank" class="btn btn-info"><i class="fa fa-search"></i> Demo</a>
+                    <button type="button" class="btn btn-primary order" data-id="'.$product->slug.'"><i class="fa fa-shopping-cart"></i> Order Now</button>
+                </div>
+            </div>
+        </div>';
     }
     public function formmail(){
     	echo'<div class="modal-dialog">
