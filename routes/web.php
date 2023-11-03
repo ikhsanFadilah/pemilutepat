@@ -29,11 +29,11 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', 'JinggacloudController@index');
-Route::post('/readmore','JinggacloudController@readmore');
-Route::post('/formmail','JinggacloudController@formmail');
-Route::post('/sendmail','JinggacloudController@sendmail');
-Route::post('/ordernow','JinggacloudController@ordernow');
-Route::post('/order','JinggacloudController@order');
+Route::post('/readmore', 'JinggacloudController@readmore');
+Route::post('/formmail', 'JinggacloudController@formmail');
+Route::post('/sendmail', 'JinggacloudController@sendmail');
+Route::post('/ordernow', 'JinggacloudController@ordernow');
+Route::post('/order', 'JinggacloudController@order');
 Route::get('{page}/{subs?}', ['uses' => '\App\Http\Controllers\PageController@index'])
     ->where(['page' => '^(((?=(?!admin))(?=(?!\/)).))*$', 'subs' => '.*']);
 Auth::routes();
